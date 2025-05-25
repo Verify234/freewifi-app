@@ -174,4 +174,4 @@ Remember, ethical data handling is crucial. Real-world applications must priorit
 - Compliance with privacy regulations.
 """)
 
-st.write("This showcase illustrates how AI can be a powerful tool for data scientists to enhance marketing using free WiFi analytics.")
+st.write("This showcase is written and Compiled by ZACHARIAH MESHACH illustrates how AI can be a powerful tool for data scientists to enhance marketing using free WiFi analytics.")
