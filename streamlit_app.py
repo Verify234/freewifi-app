@@ -34,7 +34,7 @@ AI techniques can analyze this data to provide deeper insights and enable more e
 
 st.markdown("---")
 
-# --- Use Case: Nigerian Restaurant ---
+# --- Advanced Use Case: Nigerian Restaurant ---
 st.subheader("Advanced Use Case: Nigerian Restaurant")
 st.write("Let's consider a Nigerian restaurant with local and continental dishes.")
 
@@ -90,7 +90,7 @@ for segment in restaurant_df['Segment'].unique():
         st.markdown("- **AI Suggestion:** Target with general promotions or gather more preference data.")
         st.markdown("- **Example:** 'Welcome! Take our quick survey for a chance to win a free meal!'")
 
-# --- Use Case: Supermarket ---
+# --- Advanced Use Case: Supermarket ---
 st.subheader("Advanced Use Case: Supermarket")
 st.write("Now, let's look at a supermarket with various provisions.")
 
@@ -174,4 +174,4 @@ Remember, ethical data handling is crucial. Real-world applications must priorit
 - Compliance with privacy regulations.
 """)
 
-st.write("This showcase is written and Compiled by ZACHARIAH MESHACH illustrates how AI can be a powerful tool for data scientists to enhance marketing using free WiFi analytics.")
+st.write("This showcase illustrates how AI can be a powerful tool for data scientists to enhance marketing using free WiFi analytics.")
